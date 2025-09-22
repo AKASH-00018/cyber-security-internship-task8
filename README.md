@@ -1,8 +1,8 @@
-# 🔒 Task 8: Keylogger Creation for Educational Use
+# 🔒 Task 8: Keylogger Creation 
 
 ## 🌟 Objective
 
-This project was developed as part of the Cyber Security Internship to understand the mechanics of **keylogging** using Python. The primary goal is to gain awareness of how attackers capture keystrokes, which is crucial for developing effective detection and prevention strategies. **This tool is for educational and defensive purposes only.**
+This project was developed as part of the Cyber Security Internship to understand the mechanics of **keylogging** using Python. The primary goal is to gain awareness of how attackers capture keystrokes, which is crucial for developing effective detection and prevention strategies. 
 
 ---
 
